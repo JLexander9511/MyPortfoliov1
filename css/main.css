@@ -160,7 +160,7 @@ header .animated-logo figure .Pletter:hover {
 .portrait {
   z-index: 100;
   background-color: transparent;
-  background-image: url(assets/images/background-portrait.jpg);
+  background-image: url(../assets/images/background-portrait.jpg);
   background-size: cover;
   position: relative;
   top: -70px;
